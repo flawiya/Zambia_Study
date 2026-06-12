@@ -1,4 +1,4 @@
-# Dissertation Work
+
 
 This folder contains the dedicated dissertation analysis workspace for Zambia district-level drought and maize crop sensitivity research.
 
