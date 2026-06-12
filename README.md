@@ -1,4 +1,4 @@
-# African Agricultural Drought Analysis Pipeline
+# Zambia Agricultural Drought Multi-Crop Analysis
 ## Parametric Insurance Risk Modeling using Gamma-SSI
 
 ### 1. Project Overview
