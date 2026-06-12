@@ -1,0 +1,10 @@
+country,region,n_crops_available,n_same_calendar,same_calendar_crops,envelope_planting,envelope_end
+Zambia,Central,2,1,Maize 1,305,121
+Zambia,Copperbelt,2,1,Maize 1,305,121
+Zambia,Eastern,1,1,Maize 1,320,136
+Zambia,Luapula,1,1,Maize 1,289,136
+Zambia,Lusaka,2,1,Maize 1,320,136
+Zambia,North-Western,1,1,Maize 1,289,121
+Zambia,Northern,1,1,Maize 1,289,121
+Zambia,Southern,2,1,Maize 1,305,106
+Zambia,Western,1,1,Maize 1,305,106

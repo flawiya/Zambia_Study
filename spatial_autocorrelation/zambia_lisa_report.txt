@@ -1,0 +1,3 @@
+Analysis Complete.
+Global Moran's I: 0.0269
+p-value: 0.1350

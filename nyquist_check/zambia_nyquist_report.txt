@@ -1,0 +1,45 @@
+======================================================================
+NYQUIST-SHANNON SAMPLING CHECK — REPORT
+======================================================================
+
+Pixel size:            9 km
+Nyquist limit:         4.5 km (half-pixel width)
+Total districts:       70
+
+Thresholds:
+  Relaxed (≥4.5km, half-pixel): 70 pass, 0 fail
+    Minimum crop_km² in pass group: 113
+  Moderate (≥9km, one-pixel): 70 pass, 0 fail
+    Minimum crop_km² in pass group: 113
+  Strict (≥18km, two-pixel Nyquist): 36 pass, 34 fail
+    Minimum crop_km² in pass group: 326
+
+Overlap with Low quality:
+  Relaxed (≥4.5km, half-pixel):
+    Low ∩ Nyquist-fail: 0
+    Only Low quality:   45
+    Only Nyquist-fail:  0
+  Moderate (≥9km, one-pixel):
+    Low ∩ Nyquist-fail: 0
+    Only Low quality:   45
+    Only Nyquist-fail:  0
+  Strict (≥18km, two-pixel Nyquist):
+    Low ∩ Nyquist-fail: 21
+    Only Low quality:   24
+    Only Nyquist-fail:  13
+
+Correlation crop_km² vs quality_class:  r = 0.133
+Correlation crop_km² vs pct_full_pixels: r = 0.150
+
+CONCLUSION:
+  ✅ ALL districts pass the relaxed Nyquist threshold (20 km²).
+     Zambia's districts have sufficient agricultural extent
+     for the half-pixel Nyquist criterion.
+
+  At the strict Nyquist threshold (324 km²):
+    36 districts pass, 34 fail.
+    The Nyquist filter identifies different districts than
+    the pixel-overlap quality_class, making them complementary.
+
+  Files: zambia_nyquist_check.csv, zambia_nyquist_figure.png
+======================================================================

@@ -1,0 +1,152 @@
+country,region,maize_planting,maize_endofseaso,envelope_planting,envelope_end,extra_crops,n_extra_crops
+United Republic of Tanzania,Southwest,305,152,305,152,"Millet 1,Rice 1,Winter Wheat,Sorghum 1",4
+Ethiopia,Beneshangul Gumu,136,1,121,1,"Sorghum 1,Teff 1,Winter Wheat",3
+Ethiopia,East Oromia,136,1,121,1,"Sorghum 1,Winter Wheat,Teff 1",3
+Chad,Zone 2 East,152,274,121,335,"Rice 1,Millet 1,Sorghum 1",3
+Chad,South,152,274,121,335,"Sorghum 1,Rice 1,Millet 1",3
+Chad,Zone 1,152,274,121,335,"Sorghum 1,Millet 1,Rice 1",3
+Ethiopia,Former SNNPR,136,1,121,1,"Winter Wheat,Teff 1,Sorghum 1",3
+Ethiopia,East Amhara,136,1,121,1,"Teff 1,Winter Wheat,Sorghum 1",3
+Mali,Zone 2,121,350,121,350,"Sorghum 1,Millet 1,Rice 1",3
+United Republic of Tanzania,Southeast,305,152,305,152,"Rice 1,Winter Wheat,Sorghum 1",3
+Nigeria,Middle,121,213,121,350,"Rice 2,Rice 1,Sorghum 1",3
+United Republic of Tanzania,Northern,47,213,47,213,"Sorghum 1,Millet 1,Winter Wheat",3
+United Republic of Tanzania,Central,305,152,305,152,"Rice 1,Winter Wheat,Sorghum 1",3
+Ethiopia,Tigray,136,1,121,1,"Sorghum 1,Winter Wheat,Teff 1",3
+Ethiopia,West Oromia,136,1,121,1,"Sorghum 1,Winter Wheat,Teff 1",3
+Ethiopia,West Amhara,136,1,121,1,"Sorghum 1,Winter Wheat,Teff 1",3
+Bangladesh,Rangpur,305,91,305,121,"Winter Wheat,Rice 1",2
+Bangladesh,Rajshahi,305,91,305,121,"Winter Wheat,Rice 1",2
+Bangladesh,Mymensingh,305,91,305,121,"Winter Wheat,Rice 1",2
+Bangladesh,Khulna,305,91,305,121,"Winter Wheat,Rice 1",2
+Bangladesh,Dhaka,305,91,305,121,"Rice 1,Winter Wheat",2
+Bangladesh,Chittagong,305,91,305,121,"Rice 1,Winter Wheat",2
+Bangladesh,Barisal,305,91,305,121,"Winter Wheat,Rice 1",2
+South Sudan,Kapoeta,106,1,91,1,"Sorghum 1,Millet 1",2
+Vietnam,North,152,305,121,335,"Maize 2,Rice 1",2
+Mali,Zone 3,121,350,121,350,"Sorghum 1,Rice 1",2
+Mozambique,Sofala,305,121,305,152,"Rice 1,Sorghum 1",2
+Ethiopia,North Somali,136,1,121,1,"Sorghum 1,Winter Wheat",2
+South Sudan,Bahr El Ghazal,106,1,106,1,"Millet 1,Sorghum 1",2
+South Sudan,Nile Sobat,106,1,106,1,"Sorghum 1,Millet 1",2
+Uganda,Northern,91,244,91,274,"Sorghum 1,Millet 1",2
+Mozambique,Central,305,121,305,152,"Sorghum 1,Rice 1",2
+Mali,Zone 1,121,350,121,350,"Sorghum 1,Rice 1",2
+Ethiopia,South Oromia,136,1,121,1,"Winter Wheat,Teff 1",2
+Cameroon,Far North,121,305,121,305,"Millet 1,Sorghum 1",2
+Chad,Zone 3,152,274,121,305,"Millet 1,Sorghum 1",2
+Bangladesh,Sylhet,305,91,305,121,"Rice 1,Winter Wheat",2
+Burkina Faso,South,121,350,121,350,"Millet 1,Sorghum 1",2
+Benin,North,136,289,121,305,"Sorghum 1,Rice 1",2
+Haiti,Sud,60,213,60,274,"Beans 1,Rice 1",2
+Haiti,Transversale,60,213,60,274,"Rice 1,Beans 1",2
+Haiti,Nord,60,213,60,274,"Beans 1,Rice 1",2
+Haiti,West,60,213,60,274,"Rice 1,Beans 1",2
+Chad,Zone 4,152,274,121,305,"Sorghum 1,Millet 1",2
+Cameroon,North,121,305,121,305,"Millet 1,Sorghum 1",2
+Cote d'Ivoire,North,121,259,91,335,"Rice 1,Sorghum 1",2
+Benin,Central,60,244,60,244,Rice 1,1
+Angola,Coastal,274,152,259,152,Sorghum 1,1
+Afghanistan,Eastern,152,305,152,305,Rice 1,1
+Afghanistan,North,152,305,152,305,Rice 1,1
+Afghanistan,Southern,152,305,152,305,Rice 1,1
+Angola,Highlands North,274,152,259,152,Sorghum 1,1
+Benin,South,75,244,75,244,Rice 1,1
+Angola,Huila,274,152,259,152,Sorghum 1,1
+Angola,South,305,152,305,182,Sorghum 1,1
+Burundi,Northeast,32,182,32,228,Rice 1,1
+Burkina Faso,Central,121,350,121,350,Sorghum 1,1
+Botswana,Northern,320,152,320,167,Millet 1,1
+Botswana,Eastern,320,152,320,152,Sorghum 1,1
+Egypt,Nile Delta,121,305,91,305,Rice 1,1
+Dem People's Rep of Korea,Western,91,244,91,274,Rice 1,1
+Dem People's Rep of Korea,Northern,91,244,91,274,Rice 1,1
+Dem People's Rep of Korea,Central,91,244,91,274,Rice 1,1
+Cuba,West,152,335,91,335,Rice 1,1
+Cuba,Isla De La Juventud,152,335,91,335,Rice 1,1
+Cuba,East,152,335,91,335,Rice 1,1
+Cuba,Central,152,335,91,335,Rice 1,1
+Colombia,Pacifica,47,244,32,244,Rice 1,1
+Equador,Pacific Coast,121,244,121,274,Rice 1,1
+Equador,Amazon,121,244,121,274,Rice 1,1
+Equador,Andean Highlands,121,244,121,274,Rice 1,1
+Guatemala,Central,106,259,106,259,Beans 1,1
+Democratic Republic of the Congo,West,152,305,152,335,Rice 1,1
+Democratic Republic of the Congo,North,152,305,152,335,Rice 1,1
+Democratic Republic of the Congo,East,259,47,259,47,Sorghum 1,1
+Democratic Republic of the Congo,Central,182,1,182,350,Rice 1,1
+Colombia,Andina,47,244,32,244,Rice 1,1
+Colombia,Orinoquia,47,244,32,244,Rice 1,1
+Colombia,Caribe,47,244,32,244,Rice 1,1
+Cambodia,Northwestern,121,274,91,305,Rice 1,1
+Cameroon,Adamaoua,75,259,75,259,Rice 1,1
+Cambodia,Eastern,121,274,91,305,Rice 1,1
+Cambodia,Mekong Lowlands,121,274,91,305,Rice 1,1
+Cambodia,Cardomom Elephant Mtns,121,274,91,305,Rice 1,1
+Chad,Lac,152,274,121,274,Millet 1,1
+Colombia,Amazonia,47,244,32,244,Rice 1,1
+Burundi,Southwest,32,182,32,228,Rice 1,1
+Indonesia,Sumatra,274,152,274,152,Rice 1,1
+Indonesia,Sulawesi,274,152,274,152,Rice 1,1
+Indonesia,Lesser Sunda Islands,274,152,274,152,Rice 1,1
+Indonesia,Kalimantan,274,152,274,152,Rice 1,1
+Indonesia,Java,274,152,274,152,Rice 1,1
+Honduras,South,136,259,136,259,Beans 1,1
+Honduras,North,136,259,136,259,Beans 1,1
+Guinea,South East,121,350,121,350,Rice 1,1
+Guatemala,East,106,259,106,259,Beans 1,1
+Guatemala,North,106,259,106,259,Beans 1,1
+Guatemala,South,106,259,106,259,Beans 1,1
+Guinea,South,121,350,121,350,Rice 1,1
+El Salvador,East,136,259,136,259,Beans 1,1
+El Salvador,West,136,259,136,259,Beans 1,1
+Ghana,North,152,274,91,289,Rice 1,1
+Kenya,Rift Valley,91,1,91,305,Winter Wheat,1
+Mozambique,Niassa,305,121,305,121,Sorghum 1,1
+Mozambique,South,305,121,305,152,Rice 1,1
+Myanmar,Delta,136,335,121,335,Rice 1,1
+Mozambique,Tete,305,121,305,121,Sorghum 1,1
+Myanmar,Inland Mountains,136,335,121,335,Rice 1,1
+Myanmar,Rakhine,136,335,121,335,Rice 1,1
+Namibia,Central,320,106,320,152,Millet 1,1
+Kenya,Central,60,213,60,213,Rice 2,1
+Madagascar,East,305,106,305,182,Rice 1,1
+Madagascar,Central,305,106,305,182,Rice 1,1
+Liberia,West,121,244,91,335,Rice 1,1
+Lao People's Democratic Republic,South,121,305,121,335,Rice 1,1
+Lao People's Democratic Republic,North,121,305,121,335,Rice 1,1
+Mozambique,Cabo Delgado,305,121,305,121,Sorghum 1,1
+Mozambique,Manica,305,121,305,121,Sorghum 1,1
+Kenya,Eastern,60,213,32,244,Sorghum 1,1
+Philippines,Central Philippines Region,121,259,121,335,Rice 1,1
+Philippines,Agribusinesses Mindanao,121,259,121,335,Rice 1,1
+Nigeria,South,60,213,60,213,Rice 1,1
+Nigeria,Northeast,121,228,121,305,Sorghum 1,1
+Nigeria,North,121,213,121,305,Sorghum 1,1
+Nicaragua,South,136,259,136,259,Beans 1,1
+Nicaragua,North,136,259,136,259,Beans 1,1
+Namibia,North,320,106,320,152,Millet 1,1
+Myanmar,Dry Lands,136,335,121,335,Rice 1,1
+South Sudan,Western Equatoria,91,213,91,213,Sorghum 1,1
+South Sudan,Central Equatoria,91,213,91,213,Sorghum 1,1
+Philippines,Luzon Urban Beltway,121,259,121,335,Rice 1,1
+Somalia,Shabelle and Juba Regions,91,213,91,213,Sorghum 1,1
+Somalia,Northwest,91,213,91,213,Sorghum 1,1
+Somalia,West,91,213,91,213,Sorghum 1,1
+Philippines,North Luzon Agribusiness,121,259,121,335,Rice 1,1
+Uganda,Karamoja,91,305,91,305,Sorghum 1,1
+Uganda,Eastern,32,182,32,213,Millet 1,1
+Uganda,Central,32,182,32,213,Millet 1,1
+Togo,North,121,274,121,305,Sorghum 1,1
+Sri Lanka,Southwest,274,60,274,60,Rice 1,1
+Sri Lanka,Northeast,274,60,274,60,Rice 1,1
+United Republic of Tanzania,Northeast,47,213,47,213,Winter Wheat,1
+Uganda,Western,32,182,32,213,Millet 1,1
+Zimbabwe,Manicaland,305,136,305,136,Sorghum 1,1
+Zimbabwe,Mashonaland Central,305,136,305,136,Sorghum 1,1
+Zimbabwe,Mashonaland East,305,136,305,136,Sorghum 1,1
+Zimbabwe,Mashonaland West,305,136,305,136,Sorghum 1,1
+Zimbabwe,Masvingo,320,152,320,152,Sorghum 1,1
+Zimbabwe,Matabeleland North,320,152,320,152,Sorghum 1,1
+Zimbabwe,Matabeleland South,320,152,320,152,Sorghum 1,1
+Zimbabwe,Midlands,320,152,320,152,Sorghum 1,1
