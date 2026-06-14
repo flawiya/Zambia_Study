@@ -23,7 +23,7 @@ To ensure scientific validity and address the limitations of coarse-resolution c
 ### 3. Key Justifications
 
 #### Addressing the Modifiable Areal Unit Problem (MAUP)
-A 9km ERA5-Land pixel often straddles multiple district boundaries. To resolve this, we move beyond simple centroid-based assignment. By computing a weight matrix $W$ where $W = \text{overlap\_area} / \text{pixel\_area}$, we harmonize pixels to polygons (districts) based on actual geometric contribution.
+A 9km ERA5-Land pixel often straddles multiple district boundaries. To resolve this, we move beyond simple centroid-based assignment. By computing a weight matrix, we harmonize pixels to polygons (districts) based on actual geometric contribution.
 *   **Robustness Proof:** A comparison of area-weighted vs. centroid methods for 70 Zambia districts showed that while planting calendars varied, the resulting drought-day counts were highly correlated ($r=0.96$). This proves the methodology is robust for continental-scale deployment.
 
 #### Nyquist-Shannon Theorem for Spatial Data
